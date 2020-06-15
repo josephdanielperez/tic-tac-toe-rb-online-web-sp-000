@@ -3,15 +3,15 @@
     "coverage": {
       "/home/joseph/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
+        2,
+        2,
+        2,
+        2,
+        2,
         null,
         null,
         1,
-        0,
+        3,
         null,
         null,
         1,
@@ -141,6 +141,6 @@
         null
       ]
     },
-    "timestamp": 1592180319
+    "timestamp": 1592180447
   }
 }
